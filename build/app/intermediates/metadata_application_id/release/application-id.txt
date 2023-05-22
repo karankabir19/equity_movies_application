@@ -1,0 +1,1 @@
+com.example.equity_movies_application
