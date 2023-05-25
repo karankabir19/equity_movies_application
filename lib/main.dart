@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Movie App',
+      title: 'Movie APP',
       theme: ThemeData(
         useMaterial3: true,
       ),
